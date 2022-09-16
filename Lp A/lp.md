@@ -1,4 +1,4 @@
-title: Catacoda
+title: Lp A
 categories:
   - Istio
 description: new lp.md description
@@ -8,4 +8,4 @@ isPremium: true
 license: Apache
 scenarioCount: 1
 scenarios:
-  - Catacoda B
+  - Scenario Aa
